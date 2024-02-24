@@ -1,0 +1,1 @@
+Intenta adivinar la palabra oculta antes de que se agoten tus intentos. Recibe pistas sobre la primera y última letra de la palabra. ¡Desafía tu vocabulario y conviértete en el maestro de las palabras!
